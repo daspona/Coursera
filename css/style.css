@@ -55,7 +55,7 @@ border: 1px solid;
 @media (min-width: 992px){
 
 .box {
-width: 30%;
+width: 29%;
 float:left;
 padding: 20px;
 margin: 20px;
@@ -76,7 +76,7 @@ float: right;
 @media (min-width: 768px) and (max-width: 991px){
 
 .box_tab {
-width: 45%;
+width: 44%;
 margin: 20px;
 float: left;
 padding: 20px;
@@ -85,7 +85,7 @@ box-sizing: border-box;
 }
 
 .box_tab2 {
-	width: 95%;
+	width: 93%;
 	margin: 20px;
 	box-sizing: border-box;
 }
