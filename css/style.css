@@ -1,7 +1,9 @@
+
 body {
 	margin: 0;
 	padding: 0;
 }
+
 
 h1 {
 		font-family: 'Raleway', sans-serif;
@@ -56,12 +58,13 @@ border: 1px solid;
 
 .box {
 width: 29%;
+margin: 20px;
 float:left;
 padding: 20px;
-margin: 20px;
 box-sizing: border-box;
 height: 300px;
 }
+
 
 .title_class {
 width: 50%;
@@ -77,21 +80,23 @@ float: right;
 
 .box_tab {
 width: 44%;
-margin: 20px;
+height: 200px;
 float: left;
 padding: 20px;
 box-sizing: border-box;
+margin: 20px;
+
 
 }
 
 .box_tab2 {
 	width: 93%;
-	margin: 20px;
 	box-sizing: border-box;
+margin: 20px;
 }
 
 .title_class2 {
-	width: 24%;
+	width: 25%;
 }
 
 }
@@ -99,6 +104,7 @@ box-sizing: border-box;
 @media (max-width: 767px){
 .box {
 padding: 20px;
+height: 200px;
 box-sizing: border-box;
 margin-bottom: 40px;
 }
